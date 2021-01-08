@@ -1,0 +1,18 @@
+#!name=Dcncy Config
+#!desc=私人配置模块
+
+[General]
+dns-server = 223.5.5.5, 223.6.6.6, system
+skip-proxy = *.ebchinatech.com, *.ebchina.com, jiclan.com, jsiqi.com, local.jsiqi.com, vm.jsiqi.com, 25.5.1.15, 25.2.16.252
+exclude-simple-hostnames = true
+
+[Rule]
+DOMAIN-KEYWORD,iterm2.com,🔰 节点选择
+DOMAIN-KEYWORD,typora.io,🔰 节点选择
+DOMAIN-KEYWORD,pilotmoon.com,🔰 节点选择
+DOMAIN-KEYWORD,docker.com,🔰 节点选择
+DOMAIN-KEYWORD,apps.apple.com,🔰 节点选择
+DOMAIN-KEYWORD,linodeobjects.com,🔰 节点选择
+DOMAIN-KEYWORD,jetbrains.com,🔰 节点选择
+DOMAIN-KEYWORD,merlinblog.xyz,🔰 节点选择
+DOMAIN-KEYWORD,buy.aneeo.com,🔰 节点选择
