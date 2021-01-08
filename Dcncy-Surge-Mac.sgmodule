@@ -4,7 +4,7 @@
 [General]
 dns-server = 223.5.5.5, 223.6.6.6, system
 skip-proxy = *.ebchinatech.com, *.ebchina.com, jiclan.com, jsiqi.com, local.jsiqi.com, vm.jsiqi.com, 25.*,
-exclude-simple-hostnames = true
+exclude-simple-hostnames = false
 
 [Rule]
 DOMAIN-KEYWORD,iterm2.com,🔰 节点选择
