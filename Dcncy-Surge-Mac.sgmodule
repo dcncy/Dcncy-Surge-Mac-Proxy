@@ -3,7 +3,7 @@
 
 [General]
 dns-server = 223.5.5.5, 223.6.6.6, system
-skip-proxy = *.ebchinatech.com, *.ebchina.com, jiclan.com, jsiqi.com, local.jsiqi.com, vm.jsiqi.com
+skip-proxy = *.ebchinatech.com, *.ebchina.com, jiclan.com, jsiqi.com, local.jsiqi.com, vm.jsiqi.com, 25.1.0.201
 exclude-simple-hostnames = false
 
 [Rule]
