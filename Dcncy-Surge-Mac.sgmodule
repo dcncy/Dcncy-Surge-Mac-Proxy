@@ -24,8 +24,6 @@ DOMAIN-KEYWORD,cakebrew-377a.kxcdn.com,Proxy
 DOMAIN-KEYWORD,subclipse.tigris.org,Proxy
 DOMAIN-KEYWORD,v2ex.com,Proxy
 
-DOMAIN-KEYWORD,edu.cn,DIRECT
-
 #Dash
 DOMAIN-KEYWORD,kapeli.com,Proxy
 
@@ -46,3 +44,5 @@ DOMAIN-KEYWORD,smzdm.com,Proxy
 
 #光大
 # DOMAIN-KEYWORD,cebbank.com,DIRECT
+
+DOMAIN-KEYWORD,edu.cn,DIRECT
