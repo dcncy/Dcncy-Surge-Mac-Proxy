@@ -7,42 +7,42 @@ skip-proxy = *.ebchinatech.com, *.ebchina.com, jiclan.com, jsiqi.com, local.jsiq
 exclude-simple-hostnames = false
 
 [Rule]
-DOMAIN-KEYWORD,iterm2.com,🔰 节点选择
-DOMAIN-KEYWORD,typora.io,🔰 节点选择
-DOMAIN-KEYWORD,pilotmoon.com,🔰 节点选择
-DOMAIN-KEYWORD,docker.com,🔰 节点选择
-DOMAIN-KEYWORD,apps.apple.com,🔰 节点选择
-DOMAIN-KEYWORD,linodeobjects.com,🔰 节点选择
-DOMAIN-KEYWORD,jetbrains.com,🔰 节点选择
-DOMAIN-KEYWORD,merlinblog.xyz,🔰 节点选择
-DOMAIN-KEYWORD,buy.aneeo.com,🔰 节点选择
-DOMAIN-KEYWORD,gitlab.com,🔰 节点选择
-DOMAIN-KEYWORD,jins.com,🔰 节点选择
-DOMAIN-KEYWORD,justgetflux.com,🔰 节点选择
-DOMAIN-KEYWORD,www.corecode.io,🔰 节点选择
-DOMAIN-KEYWORD,cakebrew-377a.kxcdn.com,🔰 节点选择
-DOMAIN-KEYWORD,subclipse.tigris.org,🔰 节点选择
-DOMAIN-KEYWORD,v2ex.com,🔰 节点选择
+DOMAIN-KEYWORD,iterm2.com,Proxy
+DOMAIN-KEYWORD,typora.io,Proxy
+DOMAIN-KEYWORD,pilotmoon.com,Proxy
+DOMAIN-KEYWORD,docker.com,Proxy
+DOMAIN-KEYWORD,apps.apple.com,Proxy
+DOMAIN-KEYWORD,linodeobjects.com,Proxy
+DOMAIN-KEYWORD,jetbrains.com,Proxy
+DOMAIN-KEYWORD,merlinblog.xyz,Proxy
+DOMAIN-KEYWORD,buy.aneeo.com,Proxy
+DOMAIN-KEYWORD,gitlab.com,Proxy
+DOMAIN-KEYWORD,jins.com,Proxy
+DOMAIN-KEYWORD,justgetflux.com,Proxy
+DOMAIN-KEYWORD,www.corecode.io,Proxy
+DOMAIN-KEYWORD,cakebrew-377a.kxcdn.com,Proxy
+DOMAIN-KEYWORD,subclipse.tigris.org,Proxy
+DOMAIN-KEYWORD,v2ex.com,Proxy
 
-DOMAIN-KEYWORD,edu.cn,🎯 全球直连
+DOMAIN-KEYWORD,edu.cn,DIRECT
 
 #Dash
-DOMAIN-KEYWORD,kapeli.com,🔰 节点选择
+DOMAIN-KEYWORD,kapeli.com,Proxy
 
 # App Store
-DOMAIN-KEYWORD,mzstatic.com,🔰 节点选择
+DOMAIN-KEYWORD,mzstatic.com,Proxy
 
 # clashX pro
-DOMAIN-KEYWORD,appcenter.ms,🔰 节点选择
-DOMAIN-KEYWORD,azureedge.net,🔰 节点选择
+DOMAIN-KEYWORD,appcenter.ms,Proxy
+DOMAIN-KEYWORD,azureedge.net,Proxy
 
 # 
-DOMAIN-KEYWORD,mmonit.com,🔰 节点选择
-DOMAIN-KEYWORD,eff.org,🔰 节点选择
-DOMAIN-KEYWORD,repoforge.org,🔰 节点选择
-DOMAIN-KEYWORD,remai.today,🔰 节点选择
-DOMAIN-KEYWORD,sci-hub,🔰 节点选择
-DOMAIN-KEYWORD,smzdm.com,🔰 节点选择
+DOMAIN-KEYWORD,mmonit.com,Proxy
+DOMAIN-KEYWORD,eff.org,Proxy
+DOMAIN-KEYWORD,repoforge.org,Proxy
+DOMAIN-KEYWORD,remai.today,Proxy
+DOMAIN-KEYWORD,sci-hub,Proxy
+DOMAIN-KEYWORD,smzdm.com,Proxy
 
 #光大
-# DOMAIN-KEYWORD,cebbank.com,🎯 全球直连
+# DOMAIN-KEYWORD,cebbank.com,DIRECT
