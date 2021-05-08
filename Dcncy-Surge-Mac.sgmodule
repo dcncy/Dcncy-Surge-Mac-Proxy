@@ -43,6 +43,6 @@ DOMAIN-KEYWORD,sci-hub,Proxy
 DOMAIN-KEYWORD,smzdm.com,Proxy
 
 #光大
-# DOMAIN-KEYWORD,cebbank.com,DIRECT
+DOMAIN-KEYWORD,cebbank.com,DIRECT
 
 DOMAIN-KEYWORD,edu.cn,DIRECT
